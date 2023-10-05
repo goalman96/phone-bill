@@ -1,0 +1,3 @@
+rootProject.name = "phone-bill"
+include 'phone-bill-calculator'
+
